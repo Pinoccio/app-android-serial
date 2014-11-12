@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.pinoccio.serialbridge" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>SerialBridge</name>
+    <description>
+        Bridge your pinoccio troop to the cloud with your phone!
+    </description>
+    <author email="dev@pinocc.io" href="http://pinocc.io">
+        Pinoccio Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="www/img/logo.png"/>
+</widget>
